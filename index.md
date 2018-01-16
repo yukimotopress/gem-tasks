@@ -1,6 +1,8 @@
 ---
-title: Hoe - Build, Package and Publish Gems with Rake Tasks - Ready-to-Use Build Scripts
+title: Hoe Developer's Guide
 ---
+
+_Build, Package and Publish Gems with Rake Tasks - Ready-to-Use Build Scripts_
 
 
 ## What is Hoe?

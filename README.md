@@ -3,13 +3,16 @@ See the live version @ [`yukimotopress.github.io/gem-tasks`](http://yukimotopres
 
 ---
 
-# Hoe - Build, Package and Publish Gems with Rake Tasks - Ready-to-Use Build Scripts (Manuscripts Book Edition)
+# Hoe Developer's Guide (Manuscripts Book Edition)
+
+_Build, Package and Publish Gems with Rake Tasks - Ready-to-Use Build Scripts_
+
 
 by [Ryan Davis](https://github.com/zenspider) et al
 
 This is the original pdf booklet reformatted in a single-page book edition (using the [Manuscripts format](http://manuscripts.github.io)).
 
-- [Hoe - Build, package and publish gems with rake tasks - ready-to-use build scripts](index.md)
+- [Hoe Developer's Guide](index.md)
 
 
 
