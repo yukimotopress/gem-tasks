@@ -77,13 +77,11 @@ projects. The worst upgrades of Hoe require changing a line or two in your Rakef
 
 ![](i/hoe-codegen.png)
 
-**Code Generation**
-
-**-versus-**
+**Code Generation  -versus-  Code Reuse**
 
 ![](i/hoe-codereuse.png)
 
-**Code Reuse**
+
 
 
 With code generation, each new project adds N new dependencies across all existing
