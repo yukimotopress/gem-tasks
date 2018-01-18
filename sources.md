@@ -39,7 +39,7 @@ The hellohoe sources are dedicated to the public domain. Use it as you please wi
 ## History.txt
 
 ```
-=== 0.1 / 2020-03-05
+=== 0.1 / 2018-03-05
 
 * Everything is new. First release.
 ```
