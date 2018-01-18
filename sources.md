@@ -1,5 +1,5 @@
 ---
-title: Appendix - hellohoe Sample Sources
+title: Appendix - Hello, Hoe! Sample Sources
 ---
 
 ## Directory Structure
