@@ -4,7 +4,7 @@ title: Hello, Hoe! - Let's Build a Gem Together!
 
 _Note: This chapter was written by Gerald Bauer.
 It's taken from the book 
-[Gem Series ++ Project Automation & Database Documentation Tools](http://yukimotopress.github.io/auto)_
+[Gem Series ++ Project Automation & Database Documentation Tools](http://yukimotopress.github.io/auto)_.
 
 
 ## What's Hoe? - Automate, Automate, Automate
