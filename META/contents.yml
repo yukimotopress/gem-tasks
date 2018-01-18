@@ -32,3 +32,22 @@
     - title: Why should I maintain a Manifest.txt when I can just write a glob?
     - title: Why not just write gemspecs?
     - title: "What about (newgem|bones|echoe|joe|gemify|...)?"
+
+- title: Hello, Hoe! - Let's Build a Gem Together!
+  path:  hellohoe.md
+  sections:
+  - title: What is Hoe?
+  - title: Set up your gem by adding a build script, readme, change log and manifest
+  - title: Using debug_gem, gem, package, install_gem tasks
+  - title: Checking and updating your manifest with check_manifest
+  - title: Using the release task to upload (push) your gem to RubyGems.org
+
+  
+- title: Appendix - Hello, Hoe! Sample Sources
+  path:  sources.md
+  sections:
+  - title: README.txt
+  - title: History.txt
+  - title: Manifest.txt
+  - title: Rakefile
+  - title: lib/hellohoe.rb
