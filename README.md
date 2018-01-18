@@ -14,7 +14,7 @@ This is the original pdf booklet reformatted in a single-page book edition (usin
 
 - [Hoe Developer's Guide](index.md)
 - [Hello, Hoe! - Let's Build a Gem Together!](hellohoe.md)
-- [Appendix - hellohoe Sample Sources](sources.md)
+- [Appendix - Hello, Hoe! Sample Sources](sources.md)
 
 
 
