@@ -13,6 +13,8 @@ by [Ryan Davis](https://github.com/zenspider) et al
 This is the original pdf booklet reformatted in a single-page book edition (using the [Manuscripts format](http://manuscripts.github.io)).
 
 - [Hoe Developer's Guide](index.md)
+- [Hello, Hoe! - Let's Build a Gem Together!](hellohoe.md)
+- [Appendix - hellohoe Sample Sources](sources.md)
 
 
 
