@@ -8,7 +8,7 @@ See the live version @ [`yukimotopress.github.io/gem-tasks`](http://yukimotopres
 _Build, Package and Publish Gems with Rake Tasks - Ready-to-Use Build Scripts_
 
 
-by [Ryan Davis](https://github.com/zenspider) et al
+by [Ryan Davis](https://github.com/zenspider), et al
 
 This is the original pdf booklet reformatted in a single-page book edition (using the [Manuscripts format](http://manuscripts.github.io)).
 
